@@ -1,0 +1,33 @@
+.module_action_con {
+	font-size: 14px ;
+}
+
+/* Change font everywhere */
+h1, h2, h3, h4, h5, h6, body {
+	font-family: 'Fira Sans Extra Condensed'!important ;
+}
+
+.table thead th, strong {
+	font-family: 'Fira Sans Extra Condensed'!important ;
+	font-weight: bold ;
+}
+
+/* Hide upsell banner */
+.notification-nav-bar {
+	display: none ;
+}
+
+/* Make UI wider */
+.container {
+	max-width: 95%!important ;
+}
+
+/* Dot menu for each operation block */
+div.align-middle.d-inline > i
+{
+	background-color: #FF9800;
+	border-radius: 5px;
+	padding-right: 12px!important;
+	padding-left: 12px!important;
+	color: white!important;
+}
