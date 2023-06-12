@@ -8,3 +8,6 @@ If I see viability in this project, I may release a standalone extension that do
 2. Configure it to inject css for https://connect.pabbly.com/*
 3. Copy the contents of [pabbly-connect-custom-ui.css](https://github.com/drkskwlkr/pabbly-connect-ui-customization/blob/main/pabbly-connect-custom-ui.css) into the browser extension and activate the rule.
 4. Refresh Pabbly Connect page
+
+## Changelog
+2023-06-12 Colorized the dot button alongside the workflow title in the workflow construction window
